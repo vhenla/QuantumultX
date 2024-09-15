@@ -1,34 +1,34 @@
 #perplexity
-host-suffix,perplexity.ai,OpenAI
-host-suffix,pplx.ai,OpeAI
+host-suffix,perplexity.ai,AI
+host-suffix,pplx.ai,AI
 
 # > OpenAI
 # >> ChatGPT
-host-suffix,chatgpt.com,OpenAI
-host-suffix,chat.openai.com,OpenAI
+host-suffix,chatgpt.com,AI
+host-suffix,chat.openai.com,AI
 
 # >> OpenAI Challenge & SSO
-host-suffix,auth0.openai.com,OpenAI
-host,challenges.cloudflare.com,OpenAI
+host-suffix,auth0.openai.com,AI
+host,challenges.cloudflare.com,AI
 
 # >> OpenAI Related
-host-suffix,ai.com,OpenAI
-host-suffix,openai.com,OpenAI
-host-suffix,apps.openai.com,OpenAI
-host-suffix,sentry.io,OpenAI
-host-suffix,intercom.io,OpenAI
-host-suffix,identrust.com,OpenAI
+host-suffix,ai.com,AI
+host-suffix,openai.com,AI
+host-suffix,apps.openai.com,AI
+host-suffix,sentry.io,AI
+host-suffix,intercom.io,AI
+host-suffix,identrust.com,AI
 
 # >> OpenAI Static Files
-host-wildcard,*.oaistatic.com,OpenAI
-host-wildcard,*.oaiusercontent.com,OpenAI
+host-wildcard,*.oaistatic.com,AI
+host-wildcard,*.oaiusercontent.com,AI
 
 # >> OpenAI CDN
-host-suffix,chat.openai.com.cdn.cloudflare.net,OpenAI
-host-suffix,openaiapi-site.azureedge.net,OpenAI
+host-suffix,chat.openai.com.cdn.cloudflare.net,AI
+host-suffix,openaiapi-site.azureedge.net,AI
 
 # >> OpenAI Other
-host-suffix,challenges.cloudflare.com,OpenAI
-host-suffix,invoice.stripe.com,OpenAI
-host-suffix,stripe.com,OpenAI
-host-suffix,poe.com,OpenAI
+host-suffix,challenges.cloudflare.com,AI
+host-suffix,invoice.stripe.com,AI
+host-suffix,stripe.com,AI
+host-suffix,poe.com,AI
